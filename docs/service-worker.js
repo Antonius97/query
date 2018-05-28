@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.235cb90de68c08ccc370ce2164affffb.js"
+  "/precache-manifest.8b88770bf9594795f79241aee3076a8a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "queue-app"});
